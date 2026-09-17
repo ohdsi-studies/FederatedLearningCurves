@@ -1,4 +1,4 @@
-[Learning curve for local Vs federated Vs transfer learning]
+Learning curve for local Vs federated Vs transfer learning
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
@@ -7,7 +7,7 @@
 - Study type: **Methods Research**
 - Tags: **Prediction models, PatientLevelPrediction, Federated learning**
 - Study lead: **Jenna Reps**
-- Study lead forums tag: **[[Jenna Reps]](https://forums.ohdsi.org/u/jreps)**
+- Study lead forums tag: **[Jenna Reps](https://forums.ohdsi.org/u/jreps)**
 - Study start date: **01-09-2026**
 - Study end date: **-**
 - Protocol: **-**
